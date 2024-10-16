@@ -22,6 +22,7 @@ Mobile UI Design Generator is an application that generates mobile user interfac
 
 ## Dataset
 The dataset used for training and generating mobile UI designs is available at Hugging Face Datasets.
+**Link**: https://huggingface.co/datasets
 
 ## Evaluation
 The performance of the application is evaluated based on:
